@@ -1,2 +1,3 @@
-TC01 - Dang nhap thanh cong voi email hop le (sua o local)
+
+TC01 - Dang nhap thanh cong voi email hop le
 TC02 - Dang nhap sai mat khau 
