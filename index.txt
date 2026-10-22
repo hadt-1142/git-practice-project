@@ -1,3 +1,7 @@
 
 TC01 - Dang nhap thanh cong voi email hop le
 TC02 - Dang nhap sai mat khau 
+TC03 - Hien thi thong tin lien he
+Contact: Do Thi Ha - do.thi.ha@sun-asterisk.comEmail: do.thi.ha@sun-asterisk.com 
+Phone: 0123 456 789 
+Phone (format chuan): +84 123 456 789 
